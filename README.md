@@ -3,6 +3,9 @@
 PUREPLES - Pure Python Library for ES-HyperNEAT
 ===============================================
 
+
+Simon
+
 About
 -----
 This is a library of evolutionary algorithms with a focus on neuroevolution, implemented in pure python, depending on the [neat-python](https://github.com/CodeReclaimers/neat-python) implementation. It contains a faithful implementation of both HyperNEAT and ES-HyperNEAT which are briefly described below.
